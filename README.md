@@ -5,4 +5,4 @@ Não é um projeto profissional nem um produto final.
 
 Este quiz foi totalmente inspirado em um tutorial do YouTube; eu apenas mudei as perguntas e adicionei imagens.
 
-🔗 Link do tutorial:
+🔗 Link do tutorial: https://youtu.be/KXvONdomGos?si=ZtxihJu8-EHZtqP-

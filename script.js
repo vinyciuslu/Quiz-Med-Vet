@@ -22,7 +22,7 @@ const questions = [
     },
 
     {
-        question: "4. Da onde é essa imagem?",
+        question: "Da onde é essa imagem?",
         image: "imagens/7.png",
         answers: [
             { id: 1, text: "Tecido conjuntivo denso não modelado", correct:false},
